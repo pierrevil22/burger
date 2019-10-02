@@ -12,6 +12,9 @@ https://frozen-chamber-17399.herokuapp.com/
 
 ## The app will store every burger in a database, whether devoured or not
 
+<img width="1339" alt="Screen Shot 2019-10-02 at 11 27 29 AM" src="https://user-images.githubusercontent.com/46546551/66058131-cc804180-e507-11e9-8ed5-0cc8b729f2f7.png">
+
+
 
 
 
